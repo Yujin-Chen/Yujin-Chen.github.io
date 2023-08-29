@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MathProblemGenerator/MathPoblemGenerator.PNG
+image: img/MathProblemGenerator/MathProblemGenerator.PNG
 title: "MathProblemGenerator"
 date: 2021-03-11
 labels:
