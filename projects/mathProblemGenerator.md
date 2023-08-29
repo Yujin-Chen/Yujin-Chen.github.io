@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/MathProblemGenerator/MathPoblemGenerator.PNG
 title: "MathProblemGenerator"
 date: 2021-03-11
 labels:
