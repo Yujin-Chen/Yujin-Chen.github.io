@@ -4,6 +4,7 @@ type: project
 image: img/MathProblemGenerator/MathProblemGenerator.PNG
 title: "MathProblemGenerator"
 date: 2021-03-11
+published: true
 labels:
   - python
 
