@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
@@ -40,54 +40,8 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
+  
+
   "awards": [
     {
       "title": "B+ Scholarship",
