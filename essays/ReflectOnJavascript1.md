@@ -21,18 +21,13 @@ I definitely learned something from this module other than things mentioned abov
 
 After the professor introduce WOD and saying that it worth 30% of your grade. I was so worried about failing the WOD even though the professor have also mentioned it is normal fail some of the WOD. I feeling on WOD did not change until did some practice WOD and was able to finish within time. After the practice WOD it made me feel better because I was able to complete and pass the WOD. But bceause didn't take the actual WOD yet, I still feel nervous.
 
-Despite the pressure and the stress WOD give me. WOD actually improve your coding skill. For example the "isUnique" WOD, I was thinking use nested loop to determine whether the string has repeat character. The way professor Johnson did was not an option before I watch his video. Which he creates an object and characters as property. If that character's property is true then that mean the String is not unique. Is So WODs can open your mind solve problems in different ways in the future.
+Despite the pressure WOD give me. WOD actually improve your coding skill. For example the "isUnique" WOD, I was thinking use nested loop to determine whether the string has repeat character. The way professor Johnson did was not an option before I watch his video. Which he creates an object and characters as property. If that character's property is true then that mean the String is not unique. Is So WODs can open your mind solve problems in different ways in the future.
 
 So the existence of WOD is definitely
 
-## In the context of relationships
+## Is it stressful?
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+Yes, I already feel a bit stressful beginning of the semester due to numbers of reading and assignments just in the FIRST WEEK. Just ICS 314 itself made stress because there are lots of software and other new things that are introduced. I never get in touch with those things before so it made worried. Also the numbers of assignment already posted in assignment list stress me out too. I hope I will able to come over this and rest of the semester will go smooth.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
 
 
