@@ -27,7 +27,7 @@ So the existence of WOD is definitely
 
 ## Is it stressful?
 
-Yes, I already feel a bit stressful beginning of the semester due to numbers of reading and assignments just in the FIRST WEEK. Just ICS 314 itself made stress because there are lots of software and other new things that are introduced. I never get in touch with those things before so it made worried. Also the numbers of assignment already posted in assignment list stress me out too. I hope I will able to come over this and rest of the semester will go smooth.
+Yes, I already feel a bit stressful beginning of the semester due to numbers of reading and assignments just in the FIRST WEEK. Just ICS 314 itself made stress because there are lots of software and other new things that are introduced. I never get in touch with those things before so I am worried that I will not do well on the assignment because lack of experience with the software. Also the numbers of assignment already posted in assignment list stress me out too. I hope I will able to come over this and rest of the semester will go smooth.
 
 
 
