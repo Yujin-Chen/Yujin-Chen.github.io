@@ -12,27 +12,27 @@ summary: "This program enable user to practice and improve their math skills by 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="img/MathProblemGenerator/Mathgen 1.PNG" class="img-thumbnail" >
+  <img width="200px" src="../img/MathProblemGenerator/Mathgen 1.PNG" class="img-thumbnail" >
  
 </div>
 
 <div class="text-center p-4">
   
-  <img width="200px" src="img/MathProblemGenerator/Mathgen 2.PNG" class="img-thumbnail" >
+  <img width="200px" src="../img/MathProblemGenerator/Mathgen 2.PNG" class="img-thumbnail" >
  
 </div>
 
 
 <div class="text-center p-4">
 
-  <img width="200px" src="img/MathProblemGenerator/Mathgen3.PNG" class="img-thumbnail" >
+  <img width="200px" src="../img/MathProblemGenerator/Mathgen3.PNG" class="img-thumbnail" >
 
 </div>
 
 
 <div class="text-center p-4">
   
-  <img width="200px" src="img/MathProblemGenerator/Mathgen 4.PNG" class="img-thumbnail" >
+  <img width="200px" src="../img/MathProblemGenerator/Mathgen 4.PNG" class="img-thumbnail" >
 </div>
 
 When the program run it will ask user decide how many and what type of problem the user want to practice.
