@@ -6,7 +6,7 @@ title: "The difficult things will always be difficult"
 date: 2016-02-06
 published: false
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
