@@ -18,7 +18,7 @@ I was introduced to computer science during my sophmore year in high school. Aft
 
 ## Skills I wish to develop in the future
 
-I wish to develop the skill that I can quickly have some sort of structure of the code after read the instruction or listen to client's needs. I know this will the take lots time because this is depend own your experience. 
+I wish to develop the skill that I can quickly have some sort of structure of the code after read the instruction or listen to client's needs. I know this will the take lots time because this is depend own your experience. So it is a long process to gain this skill and I will not give. Life is learning, there is always something new available for you to learn. 
 
 I also want to develop the skill, able to cooperate with different type software to develop software. I believe AI like Github Copilot and Chatgpt would efficiently improve my code and save time. In ICS 314 (currently taking) will help me develop the skills I need. After this course, I would also take advance software engineer course at UH Manoa and find a software engineer internship to gain work experience.
 
