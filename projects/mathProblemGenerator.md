@@ -22,32 +22,6 @@ summary: "This program enable user to practice and improve their math skills by 
   When the program run it will ask user decide how many and what type of problem the user want to practice.
 </div>
 
-<div align="center">
-  
-  <img width="450px" src="../img/MathProblemGenerator/Mathgen 2.PNG" class="img-fluid" >
- 
-</div>
-<div align="center" >
-  When the program run it will ask user decide how many and what type of problem the user want to practice.
-</div>
-
-<div align="center">
-
-  <img  src="../img/MathProblemGenerator/Mathgen3.PNG" class="img-fluid" >
-
-</div>
-<div align="center" >
-  When the program run it will ask user decide how many and what type of problem the user want to practice.
-</div>
-
-<div align="center">
-  
-  <img  src="../img/MathProblemGenerator/Mathgen 4.PNG" class="img-fluid img-fluid" style="center" >
-</div>
-
-<div align="center" >
-  When the program run it will ask user decide how many and what type of problem the user want to practice.
-</div>
 
 
-
+Source: <a href="https://replit.com/@yc2003/pt-math-program"><i class="large github icon "></i>Link to my source code</a>
