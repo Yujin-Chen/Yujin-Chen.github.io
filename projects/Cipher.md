@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Cipher/cipher.PNG
-title: "Caesar Cipher and Vigenere cipher"
+title: "Letter Caesar Cipher and Vigenere cipher"
 date: 2021
 published: true
 labels:
@@ -16,26 +16,20 @@ labels:
  
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This is a encryption and decryption program. There are two type of cipher in this program. The first one is Caesar cipher. Which is a simple method of encoding messages. To encrypt you just need to set a password(an integer and represent number of slots shift to the right). For example, you encrypt "a" with password "3" then enconded result is "d". To decrypt would need to enter the encrypted message with the password(this time shift left). Enter "d" with password "3" you will get the original message you have entered and in this case is "a". To encrypt you don't have to shift right. You can also shift left but just have to make decrpytion shift the opposite way of encryptuin.
+
 <div align="center">
   <img width="300px" height="250px" src="../img/Cipher/vcipherEncode.PNG" class="img-thumbnail" >
   <img width="300px" height="250px" src="../img/Cipher/vcipherDecrypt.PNG" class="img-thumbnail" >
  
 </div>
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The second type of cipher is Vigenere cipher. Which is another shift encoder. To encrypt you need to add the value(position of letter in alphabet -1 because Computer science is 0 based) of the letter you want to encode with the letter of the key you have set up. For example, encrypt "abc" with the key "key". 
+Process: (a=0, b=1, c=2, k=10, e=4, y= 24) first letter "a": 0+10=10 which become "k" second letter"b": 1+4=5 which become is "f" last letter "c" = 2+24=26 but it is equal 26 so you need to take the modulo of 26 (26%26) which is 0 and become "a". 
+Result: "kfa" For decryption, it is the opposite of encryption. You subctract encrypted letter value with key value.
 
-Here is some code that illustrates how we read values from the line sensors:
+This program was an assignment for AP coomputer science A. This is the first time I was introduced to some kind of encrypytion and decryption. I have took me a long time to finish that assignment. It is not the concept is hard. It is having it bit trouble with the scanner skipping lines. So the program could not receive the input needed to perfrom encryption and decryption.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+
+
+Source: <a href="https://replit.com/@yc2003/Final-cipher1"><i class="large github icon "></i>Link to my source code</a>
