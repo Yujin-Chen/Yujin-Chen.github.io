@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Interest in Software Engineer"
+title: "Software Engineer as dream job?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
