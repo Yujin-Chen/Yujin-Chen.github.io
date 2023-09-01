@@ -18,9 +18,8 @@ I was introduced to computer science during my sophomore year in high school. Af
 
 ## Skills I wish to develop in the future
 
-I wish to develop the skill that I can quickly have some sort of structure of the code after read the instruction or listen to client's needs. I know this will the take lots time because this is depend own your experience. So it is a long process to gain this skill and I will not give. Life is learning, there is always something new available for you to learn. 
+I wish to develop the skill that I can quickly have some sort of structure of the code after reading the instructions or listening to the client's needs. I know this will take lots of time because this depends own your experience. So it is a long process to gain this skill and I will not give up. Life is learning, there is always something new available for you to learn. 
 
-I also want to develop the skill, able to cooperate with different type software to develop software. I believe AI like Github Copilot and Chatgpt would efficiently improve my code and save time. In ICS 314 (currently taking) will help me develop the skills I need. After this course, I would also take advance software engineer course at UH Manoa and find a software engineer internship to gain work experience.
-
+I also want to develop the skill, able to cooperate with different types of software to develop software. I believe AI like Github Copilot and Chatgpt would efficiently improve my code and save time. ICS 314 (currently taking) will help me develop the skills I need. After this course, I would also take an advance software engineer course at UH Manoa and find a software engineer internship to gain work experience.
 
 
