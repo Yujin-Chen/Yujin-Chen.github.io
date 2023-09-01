@@ -23,7 +23,7 @@ After the professor introduce WOD and saying that it worth 30% of your grade. I 
 
 Despite the pressure WOD give me. WOD actually improve your coding skill. For example the "isUnique" WOD, I was thinking use nested loop to determine whether the string has repeat character. The way professor Johnson did was not an option before I watch his video. Which he creates an object and characters as property. If that character's property is true then that mean the String is not unique. Is So WODs can open your mind solve problems in different ways in the future.
 
-So the existence of WOD is definitely
+So the existence of WOD is definitely useful and helpful.
 
 ## Is it stressful?
 
