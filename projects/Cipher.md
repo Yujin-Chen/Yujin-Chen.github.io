@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cipher/cipher.PNG
+image: img/Cipher/cipher.jpg
 title: "Caesar Cipher and Vigenere cipher"
 date: 2021
 published: true
