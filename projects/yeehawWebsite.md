@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/yeehawWeb/yeehaw.jpg
 title: "Restaurtant Website"
 date: 2020
 published: true
