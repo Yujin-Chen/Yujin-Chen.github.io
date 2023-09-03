@@ -6,7 +6,7 @@ title: "How was the First WOD?"
 date: 2023-09-02
 published: true
 labels:
-  - reflection
+  - Reflection
   - WOD
 ---
 
