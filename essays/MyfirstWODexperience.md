@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How was first WOD?"
+title: "How was the First WOD?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-02
 published: true
