@@ -22,7 +22,7 @@ There is a post on StackOverflow with the header, *Why am I getting "file not fo
 
 It looks good so far but if you look at other part of the post you can't see the effort that the developer have put in to solve the problem. All it said was, "Ive tried many many different things but just need a hand." It didn't state what specifically she/he has done. So this would be considered as not so smart question.
 
-Source: <a href="https://stackoverflow.com/questions/77034356/why-am-i-getting-file-not-found-when-trying-to-read-another-file-java"><i class="large github icon "></i>Link to post</a>
+Link to the StackOverflow post: <a href="https://stackoverflow.com/questions/77034356/why-am-i-getting-file-not-found-when-trying-to-read-another-file-java"><i class="large github icon "></i>Link to post</a>
 
 
 ## Example of Smart Question
@@ -31,7 +31,7 @@ Another post on StackOverFlow with head, *Error after chaning app's compileSdkVe
 
 The developer has put in lots of work to solve the problem. He/she has tried 7 ways to solve the problem like invalid Caches/Restart, changing the version of buildTools, and more. From this, I can tell the effort that the developer has put in before asking for help. So I would consider this as a good example of a smart question.
 
-Source: <a href="https://stackoverflow.com/questions/77032836/error-after-changing-apps-compilesdkversion-and-targetsdkversion"><i class="large github icon "></i>Link to post</a>
+Link to the StackOverflow post: <a href="https://stackoverflow.com/questions/77032836/error-after-changing-apps-compilesdkversion-and-targetsdkversion"><i class="large github icon "></i>Link to post</a>
 
 ## Conclusion
 
