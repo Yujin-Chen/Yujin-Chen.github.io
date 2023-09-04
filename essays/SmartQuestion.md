@@ -31,6 +31,7 @@ Another post on StackOverFlow with head, *Error after chaning app's compileSdkVe
 
 Developer has put in lots of work to solve the problem. Developer have tried 7 ways to solve the problem like invalid Cahes/Restart , change the version of buildTools, and more. From this I can tell the effort that the developer have put in before ask for help. So I would consider this as an good example of smart question.
 
+Source: <a href="https://stackoverflow.com/questions/77032836/error-after-changing-apps-compilesdkversion-and-targetsdkversion"><i class="large github icon "></i>Link to post</a>
 
 ## Conclusion
 
