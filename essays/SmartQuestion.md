@@ -27,7 +27,7 @@ Link to the StackOverflow post: <a href="https://stackoverflow.com/questions/770
 
 ## Example of Smart Question
 
-Another post on StackOverFlow with head, *Error after chaning app's compileSdkVersion and targetSdkVersion*. The header has specified the problem. Then in the post developer specified that it worked till he changed *compileSdkVersion 34* and *targetSdkVersion 34*. Also include the symptom(error message: Execution failed for task ':app:processDebugResources' ....) instead of talking about its guesses on what caused the problem. 
+Another post on StackOverFlow with head, *Error after changing app's compileSdkVersion and targetSdkVersion*. The header has specified the problem. Then in the post developer specified that it worked till he changed *compileSdkVersion 34* and *targetSdkVersion 34*. Also include the symptom(error message: Execution failed for task ':app:processDebugResources' ....) instead of talking about its guesses on what caused the problem. 
 
 The developer has put in lots of work to solve the problem. He/she has tried 7 ways to solve the problem like invalid Caches/Restart, changing the version of buildTools, and more. From this, I can tell the effort that the developer has put in before asking for help. So I would consider this as a good example of a smart question.
 
@@ -35,5 +35,5 @@ Link to the StackOverflow post: <a href="https://stackoverflow.com/questions/770
 
 ## Conclusion
 
-Things that Eric Raymond has mentioned in *How To Ask Questions The Smart Way*, will help you get the help you need efficiently. Your post needs to show you have put in effort to find the solution and care about the problem you post. Try to think this yourself, Would you help a person that don't even care about himself just wait for other people to help him? Header is also important, it lets the others know the specific problem you having and if its something in their field then they would most likely help you. So post post-smart question is important.
+Things that Eric Raymond has mentioned in *How To Ask Questions The Smart Way*, will help you get the help you need efficiently. Your post needs to show you have put in effort to find the solution and care about the problem you post. Try to think this yourself, Would you help a person that don't even care about himself just wait for other people to help him? Header is also important, it lets the others know the specific problem you're having and if It's something in their field then they would most likely help you. So post post-smart question is important.
 
