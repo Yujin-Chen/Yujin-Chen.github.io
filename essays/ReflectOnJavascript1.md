@@ -21,7 +21,7 @@ I learned something from this module other than the things mentioned above. From
 
 After the professor introduced WOD and said that it was worth 30% of your grade. WOD stand for "Workout of the Day," which professor give you the code task, and you need to implement the task. I was so worried about failing the WOD even though the professor have also mentioned it is normal to fail some of the WOD. My feelings on WOD did not change until did some practice WOD and was able to finish within time. After the practice WOD it made me feel better because I was able to complete and pass the WOD. But because I haven't taken the actual WOD yet, I still feel nervous.
 
-Despite the pressure, WOD gave me. WOD improve your coding skill. For example the "isUnique" WOD, I was thinking of using a nested loop to determine whether the string has a repeat character. The way Professor Johnson did was not an option before I watched his video. He creates an object and characters as property. If that character's property is true then that means the String is not unique. So WODs can open your mind to solve problems in different ways in the future.
+Despite the pressure the WOD gave me. WOD improve your coding skill. For example the "isUnique" WOD, I was thinking of using a nested loop to determine whether the string has a repeat character. The way Professor Johnson did was not an option before I watched his video. He creates an object and characters as property. If that character's property is true then that means the String is not unique. So WODs can open your mind to solve problems in different ways in the future.
 
 So the existence of WOD is useful and helpful.
 

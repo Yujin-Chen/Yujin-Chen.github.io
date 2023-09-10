@@ -16,7 +16,7 @@ labels:
  
 </div>
 
-This is an encryption and decryption program. There are two types of cipher in this program. The first one is Caesar cipher. Which is a simple method of encoding messages. To encrypt you just need to set a password(an integer and represent the number of slots shift to the right). For example, you encrypt "a" with password "3" and then the encoded result is "d". To decrypt would need to enter the encrypted message with the password(this time shift left). Enter "d" with password "3" and you will get the original message you have entered which in this case is "a". To encrypt you don't have to shift right. You can also shift left but just have to make the decryption shift the opposite way of encryption.
+This is an encryption and decryption program. There are two types of cipher in this program. The first one is Caesar cipher. Which is a simple method of encoding messages. To encrypt you just need to set a password(an integer which represent the number of slots shift to the right). For example, you encrypt "a" with password "3" and then the encoded result is "d". To decrypt would need to enter the encrypted message with the password(this time shift left). Enter "d" with password "3" and you will get the original message you have entered which in this case is "a". To encrypt you don't have to shift right. You can also shift left but just have to make the decryption shift the opposite way of encryption.
 
 
 
