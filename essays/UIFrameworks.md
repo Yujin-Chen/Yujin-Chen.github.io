@@ -15,7 +15,7 @@ labels:
 
 ## Experience with UI Frameworks
 
-Well before using UI framework I think UI framework will be much easier to learn since it is a framework, that will have most of things done for you. Yes, that is true. After using Bootstrap 5, it saves lots of time. It has pre-designed components that we just need to insert the class in the div. Then boom, it does the styling for you. But it is not easy to learn bootstrap 5. It is like a new programming language. The first few assignments that required me to use Bootstrap 5 for my software engineer class gave me a hard time and took me a long time. I have to look up the documentation and try to understand how to use it. It is not that easy to learn because there are so many things to learn. For example, there are so many different classes and different ways to use it.
+Before using UI framework I think UI framework will be much easier to learn since it is a framework, that will have most of things done for you. Yes, that is true. After using Bootstrap 5, it saves lots of time. It has pre-designed components that we just need to insert the class in the div. Then boom, it does the styling for you. But it is not easy to learn bootstrap 5. It is like a new programming language. The first few assignments that required me to use Bootstrap 5 for my software engineer class gave me a hard time and took me a long time. I have to look up the documentation and try to understand how to use it. It is not that easy to learn because there are so many things to learn. For example, there are so many different classes and different ways to use it.
 
 ## Is it worth it to learn UI Frameworks?
 <div align="center">
