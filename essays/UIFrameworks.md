@@ -19,8 +19,8 @@ Well before using UI framework I think UI framework will be much easier to learn
 
 ## Is it worth it to learn UI Frameworks?
 <div align="center">
-<img width="800px" src="../essays/image/img1.png">
-<img width="800px" src="../essays/image/img.png">
+<img width="80%" src="../essays/image/img1.png">
+<img width="80%" src="../essays/image/img.png">
 
 </div>
 
