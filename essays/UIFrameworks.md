@@ -1,19 +1,29 @@
 ---
 layout: essay
 type: essay
-title: "Best Software Engineer Technique"
+title: "UI Frameworks easier? Faster?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-15
+date: 2023-10-03
 published: true
 labels:
   - Software Engineering
   - Reflect
-  - Code Standard
+  - UI Frameworks
+  - CSS
+  - HTML
 ---
 
-## My opinion on ESLint and Code Standards
+## Experience with UI Frameworks
 
-After using ESLint with IntelliJ for a week, I felt annoyed at first because of the red error and the need to fix it as it went. Another thing is that there are lots of green typo errors which is annoying just because of the green squiggly line. Before using I don't even bother to care about code styling because I am the only one reading my code. The teacher or professor would just need to check the output but software engineer requires team collaboration. Which others would look at your code and start work from there. If your code is messy would take hours for your colleague to understand your code and then start working. If your code is neat and have nice comment then it would not take long for your colleague to understand your code.
+Well before using UI framework I think UI framework will be much easier to learn since it is a framework, it will have most of things done for you. Yes, that is true. After using Bootstrap 5, it does saves lots of time. It have pre-designed components that we just need to insert the class in the div. Then boom, it does the styling for you. But it is not easy to learn boostrap 5. It is like a entire new language. The first few assignments that requires to use Bootstrap 5 for software engineer class gave me a hard time and took me a long time. I have to look up the documentation and try to understand how to use it. It is not that easy to learn because there are so many things to learn. For example, there are so many different classes and different ways to use it.
+<div align="center">
+<img src="../essays/image/img.png">
+<img src="../essays/image/img1.png">
+</div>
 
-So there is something good about ESLint. Which makes the code more readable and also makes other's life easier when reading your code. Code standards would help you learn because it makes your life easier to understand other people's code just because the code is clean and has comments that explain the function of that piece of code. For example, variable naming, if you name a variable "a". Would you know what that variable represents? Probably not. It might take you hours just to figure out what is the variable for. So try to create a self-explanatory and unique variable name. Another example would be commenting. If no comment, it would take you a while you understand a function because have to trace line by line to understand what it does. Comment is also important. Many other components of code standards are helpful as well. So code standards save time and time equals money! 
+So it might be really hard to learn at first but it is worth it. It saves lots of time. For example, if you want to create a navbar. You just need to insert the class "navbar" in the div and then insert the class "navbar-brand" in the div that you want to be the brand of either your logo or the brand name. Then insert the class "navbar-nav" in the div that you want to be the nav. Then insert the class "nav-item" in the div that you want to be the item. If you want you can insert the class "nav-link" in the div if you want to add a link in the navbar It is really simple right? If you were to do it with just css and html then it take you a longer to set up the navbar and style it. The website made out of with or without UI framework don't really have much difference. It is just that UI framework saves you lots of time.
+
+For example the screenshot of the website above. Can you tell if the webpage is create with UI framework or without UI framework? Probably not. This website is created with UI framework. It has a navbar, background image, 
+
+
 
