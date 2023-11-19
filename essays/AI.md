@@ -18,7 +18,7 @@ Artificial Intelligence (AI) exhibits immense power across diverse fields. It ai
 
 
 ## Personal Experience with AI
-I've utilized ChatGPT within ICS 314 for various tasks such as brainstorming ideas, locating errors, writing code for me, explaining certain code that I don't understand, and more. For instance, during a practice WOD named BK Menu, I employed ChatGPT to write the code for me.
+I've utilized ChatGPT within ICS 314 for various tasks such as brainstorming ideas, locating errors, writing code for me, explaining certain code that I don't understand, and more. For instance, during a practice WOD named BK Menu, I asked ChatGPT to write the code for me.
 
 Prompt:
 ```
@@ -122,7 +122,14 @@ myMenu.add("tripleWhopper");
 myMenu.add("friesLarge");
 
 ```
-The ChatGPT has already completed most of the task for me. I just need to add in the item definition that is provided in the instructions. I tested it and got the expected result. This assistance is helpful, but it's important not to place 100% trust in AI. Sometimes, AI makes mistakes too. It doesn't comprehend our exact thoughts, so the result might not precisely meet your needs. For instance, when I use co-pilot in IntelliJ and type 'footer {' in the style sheet, it gives me random suggestions.
+The ChatGPT has already completed most of the task for me. I just need to add in the item definition that is provided in the instructions. I tested it and got the expected result. This assistance is helpful, but it's important not to place 100% trust in AI. Sometimes, AI makes mistakes too. It doesn't comprehend our exact thoughts, so the result might not precisely meet your needs. For instance, when I use co-pilot in IntelliJ and typed
+```
+footer {
+ border-top: #0A5421;
+ border-top-width: 3px;
+ border-top-style: solid;
+ ```
+in the style sheet, it gives me random suggestions.
 
 Then this is what Co-pilot suggested:
 ```
@@ -134,21 +141,22 @@ font-size: 1.5rem;
 font-weight: 500;
 font-family: 'Open Sans', sans-serif;
 ```
-This isn't what I want; I simply want to add a top border to my footer. It's frustrating that it keeps suggesting things that aren't what I'm looking for. So, never fully trust AI and always review everything yourself before using it
+This isn't what I want. I simply want to add a top border to my footer. It's frustrating that it keeps suggesting things that aren't what I'm looking for. So, never fully trust AI and always review everything yourself before using it
 
 ## Impact on Learning and Understanding
-Although one can't fully trust AI responses, I always test them to ensure accuracy by checking the results. If there's something I don't understand, I copy and paste that line into the chat box for ChatGPT to explain how it works in detail. Even if I still don't understand, I can ask follow-up questions or request a simpler example. This process helps me grasp the concept and problem-solving methods, enabling me to solve similar issues independently in the future. This significant influence of AI enhances my learning experience.
+Although one can't fully trust AI responses, I always test them to ensure accuracy by checking the results or ask instructor for verification. If there's something I don't understand, I copy and paste that line into the chat box for ChatGPT to explain how it works in detail. Even if I still don't understand, I can ask follow-up questions or request a simpler example. This process helps me grasp the concept and problem-solving methods, enabling me to solve similar issues independently in the future. This significant influence of AI enhances my learning experience.
 
 ## Practical Applications
-AI is so popular in today’s world. It is definitely used in real-world projects. AI has saved lots of time. It has almost everything on the internet in its database. We do not need to spend a lot of time searching for different sources instead Chat gpt can generate responses based on the data in its data. If your code is not run properly you can paste your code and input the problem you are having. Then it will point out what is wrong and suggest how to fix it. Even if the suggestion might not fix the problem, at least you have an idea which part of the code is causing the error.
 AI's widespread use in today’s world is undeniable, particularly in real-world projects, saving considerable time. With vast data in its database, ChatGPT eliminates the need for extensive searches. If code fails to run properly, pasting it and describing the issue prompts ChatGPT to identify errors and suggest fixes. While its suggestions might not always resolve the problem, they provide insights into the problematic code section.
 
 ## Challenges and Opportunities
-The primary limitation in using AI within the course is its accuracy, given that AI tools like ChatGPT are still in development and not flawless in discerning correctness. Nevertheless, AI serves as valuable support in teaching. For instance, in my ICS 314 course this semester, AI tools are allowed, easing the professor’s workload and saving students time by using AI first before seeking direct help.
+The primary limitation in using AI within the course is its accuracy, given that AI tools like ChatGPT are still in development and not flawless in discerning correctness. Nevertheless, AI serves as valuable support in teaching. For instance, in my ICS 314 course this Spring 2023 semester, the us of AI tools are allowed, easing the instructor’s workload and saving students time by using AI first before seeking direct help.
 
 ## Comparative Analysis
-Traditional teaching methods remain the primary mode of instruction over AI-enhanced approaches. Classroom interactions between teachers and students, fostering one-on-one conversations and peer-to-peer discussions, provide unique learning opportunities that AI cannot replicate.
+Traditional teaching methods persist as the primary mode of instruction compared to AI-enhanced approaches. Classroom interactions between instructors and students, and peer-to-peer discussions, offer unique learning opportunities that AI cannot replicate. Consequently, I believe discussions with peers and instructors remain the most effective way to learn. Each person has their individual way of thinking and understanding, contributing to an expansion of perspectives. AI, being programmed, maintains a fixed approach, lacking the diverse and nuanced thinking inherent in human interactions.
 
 ## Future considerations
-ChatGPT's ongoing development indicates its continuous learning and improvement, signaling the potential for increased accuracy and stability in the future. AI, despite its current state, remains a growing trend, indicating a future where reliance on AI will likely increase.
+ChatGPT's ongoing development indicates its continuous learning and improvement, signaling the potential for increased accuracy and stability in the future. AI, despite its current state, remains a growing trend, indicating a future where reliance on AI will likely increase. I believe it will make both instructor and student lives easier, saving time and effort. 
 
+## Conclusion
+From the experience I had with AI, it definitely helped me throughout the course and enhanced my understanding. This has shown that AI is an important tool in software engineering education. However, I believe that AI will never replace human interactions, which are essential to learning and understanding. AI will continue to serve as a valuable tool, but it will never replace the human element. So I recommend that we continue to use AI as a tool to enhance our learning experience but don't rely on it entirely.
