@@ -11,7 +11,7 @@ labels:
 ---
 
 <p style="text-align:center; ">
-  <img src="./image/AI.jpg" alt="AI Image" class="img-fluid" style="width:100%"/>
+  <img src="./image/AI1.jpg" alt="AI Image" class="img-fluid" style="width:100%"/>
 </p>
 
 
