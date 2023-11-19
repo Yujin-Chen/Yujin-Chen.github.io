@@ -10,6 +10,9 @@ labels:
   - Reflect
 ---
 
+<p style="text-align:center; ">
+  <img src="./image/AI.jpg" alt="AI Image" class="img-fluid" />
+</p>
 
 
 ## Introduction
