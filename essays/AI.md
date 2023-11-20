@@ -21,7 +21,10 @@ Artificial Intelligence (AI) exhibits immense power across diverse fields. It ai
 
 
 ## Personal Experience with AI
-I've utilized ChatGPT within ICS 314 for various tasks such as brainstorming ideas, locating errors, writing code for me, explaining certain code that I don't understand, and more. For instance, during a practice WOD named BK Menu, I asked ChatGPT to write the code for me.
+I've utilized ChatGPT within ICS 314 for various tasks such as brainstorming ideas, locating errors, writing code for me, explaining certain code that I don't understand, and more. 
+
+### Experience WODs, In-class WODs, Practice WODs, and Writing Code.
+I did use ChatGPT for In-class practice and Experience WODs. They are the same, they both does not have time limit. For instance, during a practice WOD named BK Menu, I asked ChatGPT to write the code for me.
 
 Prompt:
 ```
@@ -144,7 +147,232 @@ font-size: 1.5rem;
 font-weight: 500;
 font-family: 'Open Sans', sans-serif;
 ```
-This isn't what I want. I simply want to add a top border to my footer. It's frustrating that it keeps suggesting things that aren't what I'm looking for. So, never fully trust AI and always review everything yourself before using it
+This isn't what I want. I simply want to add a top border to my footer. It's frustrating that it keeps suggesting things that aren't what I'm looking for. So, never fully trust AI and always review everything yourself before using it.
+
+I did not use ChatGPT during the in-class WODs for two reasons:
+1. we would have to answer couple questions before submitting it. I feel that is too complicated so I did not use it. 
+2. This test if I actually understand and the concept. Using ChatGPT in practice and experience WODs is mainly to help me understand the concept. 
+
+### Essays
+I also used to help me writing my essays. I would write the essay first then use ChatGPT to help me correct my grammar and spelling. It is very helpful. After using it I am satisfy. For example:
+
+Prompt:
+```
+fix: Artificial Intelligence (AI) is powerful in all different 
+fields. It can assist you to complete the task or even complete 
+the task for you. When you do not understand something you can ask
+ AI to explain it to you. For example, ChatGpt is an interactive 
+ chat AI that responds based on your input. You can do many things
+  with it. Like have it write code for. You would just need to 
+  type in the requirement or instruction then it will generate the
+   code. Then you can just use it right away.
+```
+
+Result:
+```
+Artificial Intelligence (AI) exhibits immense power across diverse 
+fields. It aids in task completion and can even execute tasks 
+entirely on your behalf. Whenever you encounter something you 
+don't understand, AI stands ready to provide explanations. Take 
+ChatGPT, for instance, an interactive chat AI that responds 
+dynamically to your input. Its capabilities are vast—you can 
+accomplish numerous tasks with it. For instance, requesting code 
+generation is as simple as entering the requirement or 
+instruction, and it promptly produces the code, ready for 
+immediate use.
+```
+This is very helpful. It helps me correct my grammar and spelling for my introduction of this essay. The flow of this piece is better than my initial draft, and it aids in enhancing my writing. I plan to use it for future essay writing, if permitted, as it significantly improves my work.
+
+### Answering a question in class or discord; Asking or Answering  smart questions
+I haven't used ChatGPT to answer questions in class in class, on discord, or asking smart questions. It is because the instructor and TA are the one who are grading the assignment. So I do not trust AI to answer the question for me because it might not be correct. I would rather ask the instructor or TA for help.
+
+### Final Project
+For the final project, my group used ChatGPT to help us generate ideas. For instance, we asked ChatGPT to assist in creating a wireframe outlining the Uhnify landing page. Subsequently, we built upon that as a foundation. Here's what ChatGPT came up with:
+```
+Wireframe Description for UHnify Landing Page
+
+Top Section:
+* Brand Logo: Placed prominently at the top center or top left of 
+the page, using a clear and high-resolution image that embodies 
+the UHnify brand, consistent with the brand recognition strategy.
+
+* Navigation Bar: Directly below or beside the brand logo, 
+including links to other pages like "Home," "Browse Clubs," 
+"Events," "Login," reflecting the typography and color palette 
+from the mood board.
+
+* Engaging Headline: "Your Campus Community Awaits: Engage with UH
+ Manoa Clubs!" stands out against the Coconut White background, 
+ set in bold Raleway font to grab attention immediately upon 
+ landing on the page.
+
+Introduction Section:
+* Tagline: Below the headline, a brief and inviting introduction 
+in Open Sans that says, "UHnify brings UH Manoa's clubs to your 
+fingertips – Connect with peers, discover events, and join the 
+conversation."
+
+* Login/Sign Up: Positioned to the right of the tagline or as a 
+standalone section, featuring contrasting buttons – one in Banana 
+Leaf Green and another in Pale Yellow – drawing the eye and making
+ it clear where to log in or sign up.
+
+Main Content Area:
+* Primary Call-to-Action (CTA): An "Explore Now" button in a 
+strategic and central location on the screen, possibly with a 
+subtle animation or hover effect to entice clicks. The button 
+would be styled using the bold and inviting colors from the 
+primary palette.
+
+* Events Preview: A visually appealing carousel or grid displaying
+ upcoming events, using thumbnails that incorporate the tropical 
+ and green color scheme, with a quick hover animation or highlight
+  to indicate new events. Each preview would link to the more 
+  detailed Events Page.
+
+Footer:
+* Consistent Layout: At the bottom of the page, a footer that 
+stretches across the screen, colored in a subtle shade from the 
+color palette, perhaps the Light Tropical Green for a grounding 
+effect.
+
+* Information: Contains contact details, social media links, and 
+quick links in a neatly organized manner, using the same fonts as 
+the body text for consistency.
+
+* Legal Information: Discreetly placed in a smaller font size but 
+still legible and easy to find for those who need it.
+```
+
+### Learning a concept / tutorial, Code Examples and explaining Code
+I did use ChatGpt to learn concept of something I don't understand. For example the arrow function, I was so confused. I never seen or used that before taking this course. So I ask ChatGPT to explain it to me. 
+
+Prompt:
+```
+how do you use =>()?
+```
+Result:
+```
+The => syntax in programming languages, particularly in JavaScript
+ and other languages adopting similar constructs, is used to 
+create arrow functions, also known as fat arrow functions.
+
+Here's a breakdown:
+
+Arrow Functions: Arrow functions are a concise way to write 
+function expressions in JavaScript.
+
+Syntax: The basic syntax looks like this:
+
+javascript
+Copy code
+const functionName = (parameters) => {
+  // function body
+};
+Parameters: Arrow functions can take parameters inside the 
+parentheses (). If there's only one parameter, the parentheses 
+can be omitted. If there are no parameters, empty parentheses () 
+or _ (underscore) can be used to denote that.
+
+Function Body: If the function body is a single statement, you can
+ omit the curly braces {} and the return keyword (if the single 
+statement is a return statement). If there are multiple 
+statements, you need to enclose them in {} and explicitly use 
+return if you want to return something.
+
+Usage: Arrow functions are often used for concise anonymous 
+functions, especially in scenarios like array manipulation 
+methods (e.g., map(), filter(), reduce()), where shorter, more 
+readable code is preferred.
+
+Example:
+
+javascript
+Copy code
+// Regular function
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+
+// Equivalent arrow function
+const greetArrow = (name) => `Hello, ${name}!`;
+Arrow functions have lexical scoping of this, which means they 
+don't have their own this value. Instead, they inherit this from 
+the surrounding code (lexical context). This can be advantageous 
+in certain scenarios, especially when working with callbacks or 
+handling context.
+
+However, they might not be suitable in all situations, 
+particularly when you need a function with its own this context or
+ when defining object methods due to the way they handle this.
+
+Overall, => or arrow functions provide a more concise syntax for 
+writing functions, especially for shorter, more straightforward 
+functions in JavaScript.
+```
+This is very helpful. It helps me understand the concept of arrow function. It explains to me what the code does, concept, and how to use it. 
+### Quality Assurance and Documentation
+I did not use AI for my documentation because my final project is not at that point yet. When I reach that step, I would give ChatGPT a try to see how it goes. I did use ChatGPT for Quality Assurance when when my code run into issues. For example the simple function below with some syntax errors.
+
+Prompt:
+```
+Why is my code not running? Is there any syntax error?
+function BertErnie(int){
+if(int%4==0 & int%6==0){
+console.log("BertErnie");
+}
+else if(int%4==0){
+console.log("Bert");
+}
+else if(int%6=0){
+console.log("Ernie");
+}
+else{
+console.log(int);
+}
+}
+for(let i=1;i<=100;i++){
+BertErnie(i);
+}
+```
+
+Result:
+```
+
+I see a syntax error in your code. In the else if statement for 
+checking if a number is divisible by 6, you're using the 
+assignment operator = instead of the equality operator == or ===.
+
+Here's the corrected code:
+
+javascript
+Copy code
+function BertErnie(int) {
+  if (int % 4 == 0 && int % 6 == 0) {
+    console.log("BertErnie");
+  } else if (int % 4 == 0) {
+    console.log("Bert");
+  } else if (int % 6 == 0) {
+    console.log("Ernie");
+  } else {
+    console.log(int);
+  }
+}
+
+for (let i = 1; i <= 100; i++) {
+  BertErnie(i);
+}
+
+Changes made:
+Replaced the & operator with && for the logical AND operation.
+Replaced int % 6 = 0 with int % 6 == 0 in the else if condition to
+ check if int is divisible by 6.
+This corrected code should now properly run and execute the 
+BertErnie function for numbers from 1 to 100.
+```
+This is very helpful. It helps me find the syntax error and explain to me what is wrong with my code. It also help me fix the error. It saves a lot of time.
+### Other uses in ICS 314 Not Listed
+I did not use ChatGPT for other uses in ICS 314 not listed. I mainly use AI to write code and fix code errors. I did not use it for other uses because I do not know what other uses are there. 
 
 ## Impact on Learning and Understanding
 Although one can't fully trust AI responses, I always test them to ensure accuracy by checking the results or ask instructor for verification. If there's something I don't understand, I copy and paste that line into the chat box for ChatGPT to explain how it works in detail. Even if I still don't understand, I can ask follow-up questions or request a simpler example. This process helps me grasp the concept and problem-solving methods, enabling me to solve similar issues independently in the future. This significant influence of AI enhances my learning experience.
