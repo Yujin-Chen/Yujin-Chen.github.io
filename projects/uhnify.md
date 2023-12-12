@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhnify/uhnify.png
+image: img/uhnify/uhnify1.png
 title: "University of Hawaii at Manoa Club Website"
 date: 2023
 published: true
