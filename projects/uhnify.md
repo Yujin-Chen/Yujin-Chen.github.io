@@ -17,7 +17,7 @@ labels:
 ---
 
 <div align="center">
-  <img  src="../img/uhnify/uhnify.PNG" class="img-thumbnail" >
+  <img  src="../img/uhnify/uhnify.png" class="img-thumbnail" >
   
 </div>
 
