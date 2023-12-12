@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My ICS 314 Journy"
+title: "My ICS 314 Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-09
 published: true
