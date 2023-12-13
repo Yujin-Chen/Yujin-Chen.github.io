@@ -30,7 +30,7 @@ Result: "kfa" For decryption, it is the opposite of encryption. You subtract the
 
 
 
-This program was an assignment for AP computer science A. This was the first time I was introduced to some kind of encryption and decryption. It took me a long time to finish that assignment. It is not the concept that is hard. It is having it bit of trouble with the scanner skipping lines. So the program could not receive the input needed to perform encryption and decryption.
+This program was an independent assignment for AP computer science A. This was the first time I was introduced to some kind of encryption and decryption. It took me a long time to finish that assignment. It is not the concept that is hard. It is having it bit of trouble with the scanner skipping lines. So the program could not receive the input needed to perform encryption and decryption. This is a cool experience that I have learned something about encryption and decryption. 
 
 
 
