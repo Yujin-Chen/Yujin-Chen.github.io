@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Caesar Cipher and Vigenere cipher | Yujin Chen | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/Yujin-Chen.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Yujin Chen | Professional Portfolio">
+    <meta property="og:url" content="https://Yujin-Chen.github.io/projects/Cipher.html">
+    <meta property="og:title" content="Caesar Cipher and Vigenere cipher | Yujin Chen | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/Yujin-Chen.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Caesar Cipher and Vigenere cipher | Yujin Chen | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Yujin Chen</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Caesar Cipher and Vigenere cipher</h1>
+ <div align="center">
+  <img width="350px" height="200px" src="../img/Cipher/ccipherEncode.PNG" class="img-thumbnail" />
+  <img width="300px" height="200px" src="../img/Cipher/ccipherDecrypt.PNG" class="img-thumbnail" />
+ 
+</div>
+
+<p>This is an encryption and decryption program. There are two types of cipher in this program. The first one is Caesar cipher. Which is a simple method of encoding messages. To encrypt you just need to set a password(an integer which represent the number of slots shift to the right). For example, you encrypt “a” with password “3” and then the encoded result is “d”. To decrypt would need to enter the encrypted message with the password(this time shift left). Enter “d” with password “3” and you will get the original message you have entered which in this case is “a”. To encrypt you don’t have to shift right. You can also shift left but just have to make the decryption shift the opposite way of encryption.</p>
+
+<div align="center">
+  <img width="300px" height="250px" src="../img/Cipher/vcipherEncode.PNG" class="img-thumbnail" />
+  <img width="300px" height="250px" src="../img/Cipher/vcipherDecrypt.PNG" class="img-thumbnail" />
+ 
+</div>
+<p>The second type of cipher is the Vigenere cipher. Which is another shift encoder. To encrypt you need to add the value(position of letter in alphabet -1 because Computer science is 0 based) of the letter you want to encode with the letter of the key you have set up. For example, encrypt “abc” with the key “key”. Process: (a=0, b=1, c=2, k=10, e=4, y= 24) first letter “a”: 0+10=10 which becomes “k”, the second letter”b”: 1+4=5 which becomes “f”, last letter “c” = 2+24=26 but it is equal 26 so you need to take the modulo of 26 (26%26) which is 0 and become “a”. 
+Result: “kfa” For decryption, it is the opposite of encryption. You subtract the key value from the encrypted letter value.</p>
+
+<p>This program was an independent assignment for AP computer science A. This was the first time I was introduced to some kind of encryption and decryption. It took me a long time to finish that assignment. It is not the concept that is hard. It is having it bit of trouble with the scanner skipping lines. So the program could not receive the input needed to perform encryption and decryption. This is a cool experience that I have learned something about encryption and decryption.</p>
+
+<p>Source: <a href="https://replit.com/@yc2003/Final-cipher1"><i class="large github icon "></i>Link to my source code</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

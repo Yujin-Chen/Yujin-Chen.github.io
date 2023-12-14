@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Yujin Chen",
+    "label": "Student",
+    "picture": "https://github.com/Yujin-Chen.png",
+    "email": "yujin31@hawaii.edu",
+    "phone": "808-258-8876",
+    "website": "https://Yujin-Chen.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Yujin-Chen", "url": "http://github.com/Yujin-Chen" },
+      { "network": "linkedin", "username": "Yujin Chen", "url": "http://linkedin.com/in/yujin-chen-10553722a" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Software Engineer" },
+    { "name": "Basketball" },
+    { "name": "Gaming" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C",  "Java", "Javascript", "Python"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Window",  "Git/GitHub", "React", "Bootstrap", "Mongo DB", "Meteor", "Intellj" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected graduate time: Spring, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  
+
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2022-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
