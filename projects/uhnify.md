@@ -35,6 +35,9 @@ The Event Finder will the display all the events. Then the My Event Page will di
 ## Profile Page, Customize Page
 The Profile Page will display the user's information. The user can also edit their information in the customize page by fill out the form and click Update button. To change profile picture, the user can click Edit Profile Picture button. Then the user can upload a new profile picture from local device. 
 
+## Contribution 
+I have worked on start club and start event page. Which able to insert the data from the form entered the by the user to club and event collection. I also worked on the profile picture update function in the customize page. Additionally worked on club finder page fetch data from the club collection and display it on the page. Furthermore, I helped with uhnify.github.io website.
+
 ## Experience 
 This project marks my inaugural experience working on a collaborative endeavor since graduating from high school. Throughout this endeavor, I've garnered invaluable insights. Notably, I've acquired proficiency in utilizing Git and GitHub, mastering their functionalities for team collaboration. Additionally, I've gained expertise in integrating libraries into our project. For instance, we incorporated the React Bootstrap library to enhance the user interface. Furthermore, I've learned to utilize the Meteor framework to facilitate the development of our web application. Furthermore added calender and carousel framework to the website.  I also learned how to fetch and update data from the Mongo DB and cooperate then with the pages and components. Most importantly how to cooperate with teammates to finish this project. Enhanced my soft skills that is need in the software engineering field.
 
